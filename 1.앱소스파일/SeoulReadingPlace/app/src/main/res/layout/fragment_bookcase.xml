@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:library="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#dfdfdd"
+    android:gravity="center">
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerview_bookcase_bookcase"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingLeft="6dp"
+        android:paddingRight="6dp">
+    </android.support.v7.widget.RecyclerView>
+    <!-- Your FAB implementation -->
+    <com.example.dokyeong.seoulreadingplace.FloatingButton
+        android:id="@+id/floatingbutton_bookcase_registration"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_gravity="bottom|right"
+        android:src="@mipmap/icon_add"
+        library:backgroundTint="#38924a"/>
+
+    <!-- Overlay that dims the screen -->
+    <com.gordonwong.materialsheetfab.DimOverlayFrameLayout
+        android:id="@+id/dimoverlayframelayout_bookcase_overlay"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <!-- Circular reveal container for the sheet -->
+    <io.codetail.widget.RevealLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="end|bottom"
+        android:orientation="vertical">
+
+        <!-- Sheet that contains your items -->
+        <android.support.v7.widget.CardView
+            android:id="@+id/fab_sheet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/sheet_spacing"
+            android:layout_marginBottom="@dimen/sheet_spacing"
+            android:layout_marginLeft="@dimen/sheet_spacing"
+            android:layout_marginRight="@dimen/sheet_spacing">
+
+            <!-- Sheet items -->
+            <LinearLayout
+                android:layout_width="200dp"
+                android:layout_height="120dp"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:orientation="vertical"
+                android:background="#ffffff">
+                <LinearLayout
+                    android:id="@+id/linearlayout_bookcase_barcode"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal">
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@mipmap/barcode"/>
+                    <TextView
+                        android:id="@+id/textview_bookcase_barcode"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:text="바코드"
+                        android:textSize="20dp"
+                        android:textColor="#000000"/>
+                </LinearLayout>
+                <LinearLayout
+                    android:id="@+id/linearlayout_bookcase_search"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal">
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@mipmap/keyboard"/>
+                    <TextView
+                        android:id="@+id/textview_bookcase_search"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:text="검색"
+                        android:textSize="20dp"
+                        android:textColor="#000000"/>
+                </LinearLayout>
+            </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+
+    </io.codetail.widget.RevealLinearLayout>
+</FrameLayout>

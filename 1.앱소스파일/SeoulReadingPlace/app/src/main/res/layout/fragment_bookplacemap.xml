@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:library="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#dfdfdd"
+    android:gravity="center">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp">
+        <Spinner
+            android:id="@+id/spinner_bookplacemap_addressgu"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:popupBackground="#dfdfdd"
+            android:spinnerMode="dropdown"
+            android:background="@null"/>
+        <Spinner
+            android:id="@+id/spinner_bookplacemap_bookplacename"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/spinner_bookplacemap_addressgu"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:popupBackground="#dfdfdd"
+            android:spinnerMode="dropdown"
+            android:background="@null"/>
+    </RelativeLayout>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <com.google.android.gms.maps.MapView
+            android:id="@+id/mapview_bookplacemap_bookplacemap"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"/>
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/floatingactionbutton_bookplacemap_location"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="20dp"
+            android:layout_gravity="bottom|end"
+            library:backgroundTint="#38924a"
+            android:src="@drawable/icon_gps"/>
+    </FrameLayout>
+
+</LinearLayout>

@@ -1,0 +1,39 @@
+구명,새주소명,시설명,홈페이지주소,연락처,위도(구글),경도(구글),영업시간,운영기관
+종로구,서울특별시 종로구 종로1가 1 교보생명빌딩 지하 1층,교보문고 광화문점,http://www.kyobobook.co.kr/storen/MainStore.laf?SITE=01,1544-1900,37.571239,126.977759,09:30~22:00,교보문고
+서초구,서울특별시 서초구 강남대로 465 교보타워 지하1.2층,교보문고 강남점,http://www.kyobobook.co.kr/storen/MainStore.laf?SITE=15,1544-1900,37.503886,127.024063,09:30~22:00,교보문고
+송파구,서울특별시 송파구 올림픽로 269 롯데 캐슬프라자 지하1층,교보문고 잠실점,http://www.kyobobook.co.kr/storen/MainStore.laf?SITE=29,1544-1900,37.514472,127.100982,09:30~22:00,교보문고
+양천구,서울특별시 양천구 목동서로 159-1 CBS지하 1층,교보문고 목동점,http://www.kyobobook.co.kr/storen/MainStore.laf?SITE=33,1544-1900,37.528445,126.87496,11:00~21:30,교보문고
+영등포구,서울특별시 영등포구 영중로 15 타임스퀘어 멀티플렉스 2층,교보문고 영등포점,http://www.kyobobook.co.kr/storen/MainStore.laf?SITE=36,1544-1900,37.517175,126.903745,10:00~22:00,교보문고
+구로구,서울특별시 구로구 경인로 662 현대백화점 지하1층 바로드림센터(신도림동 디큐브시티점),교보문고 디큐브시티 바로드림센터,http://www.kyobobook.co.kr/storen/MainStore.laf?SITE=66,1544-1900,37.508364,126.888042,11:00 ~ 21:30,교보문고
+강북구,서울특별시 강북구 도봉로 348 교보생명빌딩 B1 (번동),교보문고 수유바로드림센터,http://www.kyobobook.co.kr/storen/MainStore.laf?SITE=68,1544-1900,37.653667,127.026647,10:30~21:30,교보문고
+중구,서울특별시 중구 장충단로 13길 20 지하1층 (을지로6가 현대시티아울렛),교보문고 동대문 바로드림센터,http://www.kyobobook.co.kr/storen/MainStore.laf?SITE=41,1544-1900,37.568555,127.007726,11:00~23:00,교보문고
+종로구,서울특별시 종로구 청계천로 41 영풍빌딩,영풍문고 종각종로본점,http://www.ypbooks.co.kr/helper.yp?targetpage=helper_branch_jongro&template=branch&pageflag=1,02-399-5600,37.570031,126.982304,09:30~22:00,영풍문고
+강남구,서울특별시 강남구 영동대로 513 코엑스몰 B1 H106,영풍문고 삼성코엑스몰점,http://www.ypbooks.co.kr/helper.yp?targetpage=helper_branch_coex&template=branch&pageflag=1,02-6002-2718,37.513308,127.057697,10:00~22:00,영풍문고
+강남구,서울특별시 강남구 강남대로 408 YBM강남센터,영풍문고 강남역점,http://www.ypbooks.co.kr/helper.yp?targetpage=helper_branch_gangnamST&template=branch&pageflag=1,02-569-9070,37.499353,127.027328,09:00~23:00,영풍문고
+영등포구,서울특별시 영등포구 국제금융로 10 IFC몰 B2,영풍문고 여의도IFC몰점,http://www.ypbooks.co.kr/helper.yp?targetpage=helper_branch_youido&template=branch&pageflag=1,02-6137-5254,37.529016,126.925714,10:00~22:00,영풍문고
+동대문구,서울특별시 동대문구 왕산로 200 롯데플라자 청량리,영풍문고 청량리롯데점,http://www.ypbooks.co.kr/helper.yp?targetpage=helper_branch_cheongyangri&template=branch&pageflag=1,02-3707-1860,37.580078,127.046069,10:30~21:00,영풍문고
+강서구,서울특별시 강서구 하늘길 38 롯데백화점김포공항 스카이파크 GF층,영풍문고 김포공항롯데점,http://www.ypbooks.co.kr/helper.yp?targetpage=helper_branch_gimpo&template=branch&pageflag=1,02-6116-5544,37.563315,126.803555,10:00~22:00,영풍문고
+성북구,서울특별시 성북구 동소문로 315 현대백화점미아점 7F,영풍문고 미아현대점,http://www.ypbooks.co.kr/helper.yp?targetpage=helper_branch_mia&template=branch&pageflag=1,02-2117-2880,37.608327,127.028735,10:30~20:00,영풍문고
+강남구,서울특별시 강남구 강남대로 438 지하 1층 (역삼동 스타플렉스),알라딘 강남점,http://used.aladin.co.kr/usedstore/wStoreHelp.aspx?offcode=gangnam,1544-2514,37.501703,127.026316,09:30~22:00,알라딘
+광진구,서울특별시 광진구 능동로 111 지하1층 (화양동),알라딘 건대점,http://used.aladin.co.kr/usedstore/wStoreHelp.aspx?offcode=geondae,1544-2514,37.540763,127.079343,09:30~22:00,알라딘
+노원구,서울특별시 노원구 노해로81길 16 지하 1층 (상계동),알라딘 노원점,http://used.aladin.co.kr/usedstore/wStoreHelp.aspx?offcode=nowon,1544-2514,37.655884,127.062672,09:30~22:00,알라딘
+종로구,서울특별시 종로구 창경궁로 236 이화빌딩 지하 1층 (명륜4가),알라딘 대학로점,http://used.aladin.co.kr/usedstore/wStoreHelp.aspx?offcode=daehakro,1544-2514,37.582828,126.998789,09:30~22:00,알라딘
+강북구,서울시 강북구 도봉로 342 2층,알라딘 수유점,http://used.aladin.co.kr/usedstore/wStoreHelp.aspx?offcode=suyu,1544-2514,37.638865,127.026135,09:30~22:00,알라딘
+관악구,서울특별시 관악구 신림로 318 청암위브 지하1층 (신림동),알라딘 신림점,http://used.aladin.co.kr/usedstore/wStoreHelp.aspx?offcode=sillim,1544-2514,37.482629,126.930059,09:30~22:00,알라딘
+서대문구,서울특별시 서대문구 연세로 21 지하1층 (창천동),알라딘 신촌점,http://used.aladin.co.kr/usedstore/wStoreHelp.aspx?offcode=sinchon,1544-2514,37.557767,126.936654,09:30~22:00,알라딘
+은평구,서울 은평구 연서로 214,알라딘 연신내점,http://used.aladin.co.kr/usedstore/wStoreHelp.aspx?offcode=yeonsinnae,1544-2514,37.617722,126.919957,09:30~22:00,알라딘
+송파구,서울특별시 송파구 올림픽로 305 지하 1층,알라딘 잠실롯데월드타워점,http://used.aladin.co.kr/usedstore/wStoreHelp.aspx?offcode=jamsil,1544-2514,37.515907,127.104416,09:30~22:00,알라딘
+송파구,서울특별시 송파구 올림픽로 124 지하 1층,알라딘 잠실신천점,http://used.aladin.co.kr/usedstore/wStoreHelp.aspx?offcode=sincheon,1544-2514,37.512234,127.084272,09:30~22:00,알라딘
+종로구,서울특별시 종로구 삼일대로 395 지하 1층 (종로2가),알라딘 종로점,http://used.aladin.co.kr/usedstore/wStoreHelp.aspx?offcode=jongno,1544-2514,37.575533,126.987417,09:30~22:00,알라딘
+마포구,서울 마포구 독막로 5 지하 1층,알라딘 합정점,http://used.aladin.co.kr/usedstore/wStoreHelp.aspx?offcode=hapjeong,1544-2514,37.549242,126.914052,09:30~22:00,알라딘
+서초구,서울특별시 서초구 신반포로 176(반포동) 센트럴시티 지하1층 B-1호 반디앤루니스,반디앤루니스 신세계강남점,http://www.bandinlunis.com/front/aboutBandi/aboutBandiMain.do?key=50&map=150#conBig,02-530-0700,37.505506,127.00406,09:30~22:00,반디앤루니스
+송파구,서울특별시 송파구 신천동 29 롯데월드몰 엔터테인먼트동 4층,반디앤루니스 롯데월드몰점,http://www.bandinlunis.com/front/aboutBandi/aboutBandiMain.do?key=50&map=170#conBig,02-411-1500,37.514047,127.103366,10:30~22:00,반디앤루니스
+서초구,서울특별시 서초구 방배동 444-3 파스텔시티 지하2층,반디앤루니스 사당역점,http://www.bandinlunis.com/front/aboutBandi/aboutBandiMain.do?key=50&map=50#conBig,02-3487-4747,37.477769,126.982134,10:30~22:30,반디앤루니스
+광진구,서울시 광진구 자양동 227-7 롯데백화점 스타시티점 지하1층,반디앤루니스 롯데스타시티점,http://www.bandinlunis.com/front/aboutBandi/aboutBandiMain.do?key=50&map=110#conBig,02-2218-3050,37.538856,127.078049,09:30~22:00,반디앤루니스
+관악구,서울특별시 관악구 신림동 1641-2번지 포도몰 7층 (신림역과 바로연결),반디앤루니스 신림역점,http://www.bandinlunis.com/front/aboutBandi/aboutBandiMain.do?key=50&map=120#conBig,02-888-1330,37.483887,126.929985,10:00~22:30,반디앤루니스
+양천구,서울특별시 양천구 목1동 916번지 현대백화점내 B3,반디앤루니스 목동점,http://www.bandinlunis.com/front/aboutBandi/aboutBandiMain.do?key=50&map=40#conBig,02-2163-2251,37.52991,126.87489,10:00~22:00,반디앤루니스
+마포구,서울특별시 마포구 백범로 35(신수동 1-1) 서강대학교 곤자가플라자 지하1층,반디앤루니스 서강점,http://www.bandinlunis.com/front/aboutBandi/aboutBandiMain.do?key=50&map=60#conBig,02-703-6640,37.551229,126.943653,09:00~07:00,반디앤루니스
+강남구,서울특별시 강남구 강남대로 422 지하1층 YES24 중고매장 강남점(역삼동 씨티빌딩),YES24 강남점,http://www.yes24.com/campaign/00_corp/store/store_gangNam.aspx,1566-4295,37.500605,127.026888,10:30~23:00,YES24
+양천구,서울특별시 양천구 오목로 325 지하 1층 YES24 중고매장 목동점 (목동 대학빌딩),YES24 목동점,http://www.yes24.com/campaign/00_corp/store/store_mokdong.aspx?CategoryNumber=018,1566-4295,37.525309,126.873542,09:30~10:00,YES24
+중구,서울특별시 중구 명동길 66 명동성당 신관 카톨릭회관 지하 1층,북파크 명동점,http://bookpark.com/myongDong/bp_bookPark.html?bid1=N_main&bid2=bottom&bid3=bn&bid4=01,02-6004-7390,37.564359,126.986866,10:00~21:00,YES24
+용산구,서울특별시 용산구 이태원로 294 블루스퀘어 3층,북파크 한남동 블루스퀘어점,http://www.ikaos.org/ko/park/park01.html,02-6004-8106,37.541084,127.002462,10:00~24:00,YES24
